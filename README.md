@@ -19,7 +19,7 @@ A basic code editor implemented in Python using the Tkinter library.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/simple-code-editor.git
+    git clone https://github.com/AnupGamer12/Simple-Code-Editor.git
     ```
 
 2. Navigate to the project directory:
